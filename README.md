@@ -1,6 +1,11 @@
-# theme
+# Flutter Web Theme Application
 
-A new Flutter project.
+Explore a visually stunning Flutter web theme application that dynamically responds to interactions. With the magic of MouseRegion, this application provides an immersive experience. Discover a world of color and design, all powered by Flutter's versatility and web capabilities using Provider for State management.
+
+# Output in web
+
+![themeApp](https://github.com/FlutterDevSangee/Flutter-Web-Theme-Application/assets/130139011/77a77930-0cfc-4469-b044-2d99f810567a)
+
 
 ## Getting Started
 
